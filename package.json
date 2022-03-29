@@ -27,11 +27,11 @@
     "node-persist": "0.0.6",
     "node-uuid": "1.4.7",
     "restify": "3.0.3",
-    "restwork-oauth": "git://github.com/EduardoKanno/restwork-oauth.git",
+    "restwork-oauth": "https://github.com/EduardoKanno/restwork-oauth.git",
     "underscore": "1.8.3"
   },
   "devDependencies": {
-    "blanket": "git://github.com/alex-seville/blanket.git",
+    "blanket": "https://github.com/alex-seville/blanket.git",
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
     "expect.js": "^0.3.1",
